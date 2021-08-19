@@ -1,2 +1,2 @@
-# Emotion-In-Text
-Emotion in Text Project
+# Emotion-In-Text-Detection
+Emotion in Text Detection Project
